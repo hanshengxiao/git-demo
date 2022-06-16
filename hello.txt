@@ -23,6 +23,7 @@ hello.world!
 hello.world!
 test-00000000000001
 master~
+hot-fix
 ~
 ~
 ~
@@ -37,7 +38,7 @@ master~
 ~
 ~
 ~
-~
+
 ~
 ~
 ~
